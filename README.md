@@ -1,2 +1,3 @@
-# benserrien.github.io
-github pages
+# Github Pages
+
+Website developped while learning git/github.
